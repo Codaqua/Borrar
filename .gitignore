@@ -1,0 +1,6 @@
+secrets.txt
+borrar1.txt
+*.jpb
+#el * hace que todos los archivos que sean .jpg se ignoren.
+
+#esto es un comentario
